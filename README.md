@@ -1,2 +1,1 @@
-# Benchickadel.github.io
-598c2020spring
+HCDE 598 Special Topics Digital Fabrication

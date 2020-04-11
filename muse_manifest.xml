@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1586630702811">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1586631202314">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_home.css" crc="4167761847" ref="e-cookie:cookie-cutters:index:george:sewer-cookie:about:contact:projects"/>
-    <file name="e-cookie.css" crc="171623556" ref="e-cookie"/>
-    <file name="cookie-cutters.css" crc="438301837" ref="cookie-cutters"/>
-    <file name="index.css" crc="468013044" ref="index"/>
-    <file name="george.css" crc="3816935032" ref="george"/>
-    <file name="sewer-cookie.css" crc="326656747" ref="sewer-cookie"/>
-    <file name="about.css" crc="269676101" ref="about"/>
-    <file name="contact.css" crc="3901767782" ref="contact"/>
-    <file name="projects.css" crc="4073862449" ref="projects"/>
+    <file name="e-cookie.css" crc="296864031" ref="e-cookie"/>
+    <file name="cookie-cutters.css" crc="3758598742" ref="cookie-cutters"/>
+    <file name="index.css" crc="30248696" ref="index"/>
+    <file name="george.css" crc="4023761500" ref="george"/>
+    <file name="sewer-cookie.css" crc="523356444" ref="sewer-cookie"/>
+    <file name="about.css" crc="254783197" ref="about"/>
+    <file name="contact.css" crc="259177142" ref="contact"/>
+    <file name="projects.css" crc="3864088004" ref="projects"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:cookie-cutters:contact:sewer-cookie:e-cookie:george:index"/>
@@ -27,12 +27,12 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="about.html" crc="4273951590" seo="true" mt="1586629095604" redirect="true"/>
-  <file name="projects.html" crc="229952621" seo="true" mt="1586629108577" redirect="true"/>
-  <file name="cookie-cutters.html" crc="4025674426" seo="true" mt="1586629142346" redirect="true"/>
-  <file name="contact.html" crc="47637597" seo="true" mt="1586629659778" redirect="true"/>
-  <file name="sewer-cookie.html" crc="3992180304" seo="true" mt="1586629364265" redirect="true"/>
-  <file name="e-cookie.html" crc="3826479225" seo="true" mt="1586629335762" redirect="true"/>
-  <file name="george.html" crc="297287049" seo="true" mt="1586629357538" redirect="true"/>
-  <file name="index.html" crc="3845235587" seo="true" mt="1586629005425" redirect="true"/>
+  <file name="about.html" crc="4205461298" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="projects.html" crc="366780551" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="cookie-cutters.html" crc="324563421" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="contact.html" crc="197235520" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="sewer-cookie.html" crc="496169871" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="e-cookie.html" crc="528489203" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="george.html" crc="325609254" seo="true" mt="1586631145578" redirect="true"/>
+  <file name="index.html" crc="4257882579" seo="true" mt="1586631145578" redirect="true"/>
 </manifest>

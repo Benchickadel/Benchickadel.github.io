@@ -1,23 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://598 test.com/index.html</loc>
-    <lastmod>2020-04-07</lastmod>
+    <loc>http://ben598.com/index.html</loc>
+    <lastmod>2020-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://598 test.com/images/brick-oven-crop-u100.jpg</image:loc>
+      <image:loc>http://ben598.com/images/pizza%20fire.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://598 test.com/project-1.html</loc>
-    <lastmod>2020-04-07</lastmod>
+    <loc>http://ben598.com/projects.html</loc>
+    <lastmod>2020-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://598 test.com/project-2.html</loc>
-    <lastmod>2020-04-07</lastmod>
+    <loc>http://ben598.com/cookie-cutters.html</loc>
+    <lastmod>2020-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/contact.html</loc>
+    <lastmod>2020-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/about.html</loc>
+    <lastmod>2020-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/brick-oven-crop-u100.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ben598.com/e-cookie.html</loc>
+    <lastmod>2020-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/george.html</loc>
+    <lastmod>2020-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/sewer-cookie.html</loc>
+    <lastmod>2020-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

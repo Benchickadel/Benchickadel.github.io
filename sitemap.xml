@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ben598.com/index.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,14 +10,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/contact.html</loc>
-    <lastmod>2020-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ben598.com/about.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -26,45 +20,147 @@
   </url>
   <url>
     <loc>http://ben598.com/projects.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ben598.com/images/sewer.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/e-drawing.jpg</image:loc>
+      <image:loc>http://ben598.com/images/5b8d3652a639e004e1cab54b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/5b8d3652a639e004e1cab54b.png</image:loc>
+      <image:loc>http://ben598.com/images/sewer%20stl%20pic150x150.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer%203dm%20pic151x151.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george%20stl.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-drawing113x151.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/top%20outline.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-stl%20pic133x150.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george%203dm%20pic164x150.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/sewer-cookie-process.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <loc>http://ben598.com/contact.html</loc>
+    <lastmod>2020-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ben598.com/e-cookie-process.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-drawing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-ps.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-vector.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/chamfer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/top%20outline.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-stl%20pic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-3d%20print-crop-u4437.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ben598.com/sewer-cookie-process.html</loc>
+    <lastmod>2020-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer%20cookie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer%20cookie%20vector.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer%203dm%20pic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer%20stl%20pic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer%20cutter.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ben598.com/george-process.html</loc>
-    <lastmod>2020-04-12</lastmod>
+    <lastmod>2020-04-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/5b8d3652a639e004e1cab54b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george%20vector%20pic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george%203dm%20pic.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george%20stl%20pic.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/assets/sewer-cookie-cutter.3dm</loc>
+    <loc>http://ben598.com/assets/george1.stl</loc>
     <lastmod>2020-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ben598.com/assets/sewer-cookie-cutter.3dm</loc>
+    <lastmod>2020-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ben598.com/assets/sewer-cookie-cutter.stl</loc>
+    <lastmod>2020-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/e-vector2.3dm</loc>
+    <lastmod>2020-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/george.3dm</loc>
+    <lastmod>2020-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/e-vector2.stl</loc>
     <lastmod>2020-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

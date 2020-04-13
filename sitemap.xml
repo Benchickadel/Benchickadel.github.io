@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ben598.com/index.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <lastmod>2020-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,26 +10,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/projects.html</loc>
-    <lastmod>2020-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ben598.com/cookie-cutters.html</loc>
-    <lastmod>2020-04-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ben598.com/contact.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <lastmod>2020-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ben598.com/about.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <lastmod>2020-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -37,20 +25,47 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/e-cookie.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <loc>http://ben598.com/projects.html</loc>
+    <lastmod>2020-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/e-drawing.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/5b8d3652a639e004e1cab54b.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ben598.com/sewer-cookie-process.html</loc>
+    <lastmod>2020-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/george.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <loc>http://ben598.com/e-cookie-process.html</loc>
+    <lastmod>2020-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/sewer-cookie.html</loc>
-    <lastmod>2020-04-11</lastmod>
+    <loc>http://ben598.com/george-process.html</loc>
+    <lastmod>2020-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/sewer-cookie-cutter.3dm</loc>
+    <lastmod>2020-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/sewer-cookie-cutter.stl</loc>
+    <lastmod>2020-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

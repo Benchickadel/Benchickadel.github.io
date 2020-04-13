@@ -11,23 +11,37 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "about.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "require.js", "about.css"], "outOfDate":[]};
 </script>
   
   <title>about</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/master_home.css?crc=4167519620"/>
-  <link rel="stylesheet" type="text/css" href="css/about.css?crc=4156707388" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_home.css?crc=279202371"/>
+  <link rel="stylesheet" type="text/css" href="css/about.css?crc=4081767216" id="pagesheet"/>
+  <!-- JS includes -->
+  <!--[if lt IE 9]>
+  <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
+  <![endif]-->
    </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu370-4"><!-- group -->
-    <a class="nonblock nontext clearfix" id="u370-4" href="projects.html"><!-- content --><p>projects</p></a>
-    <a class="nonblock nontext clearfix" id="u371-4" href="contact.html"><!-- content --><p>contact</p></a>
-    <a class="nonblock nontext clearfix" id="u372-4" href="index.html"><!-- content --><p>home</p></a>
-    <a class="nonblock nontext MuseLinkActive clearfix" id="u379-4" href="about.html"><!-- content --><p>about</p></a>
+   <div class="clearfix grpelem" id="pmenuu818"><!-- group -->
+    <nav class="MenuBar clearfix" id="menuu818"><!-- horizontal box -->
+     <div class="MenuItemContainer clearfix grpelem" id="u819"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u822" href="index.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u825-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>home</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u826"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u827" href="projects.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u830-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>projects</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u878"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu MuseMenuActive clearfix colelem" id="u881" href="about.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u883-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>about</p></div></a>
+     </div>
+     <div class="MenuItemContainer clearfix grpelem" id="u906"><!-- vertical box -->
+      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u907" href="contact.html"><!-- horizontal box --><div class="MenuItemLabel NoWrap clearfix grpelem" id="u910-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p>contact</p></div></a>
+     </div>
+    </nav>
     <div class="clearfix" id="u122-9"><!-- content -->
      <p>My name is Ben. I'm a dad, teacher, artist and pizza fanatic. I have been interested in digital fabrication since I saw my first laser cut piece of acrylic. Since then I have been using laser cutters, water jet cutters and 3D printers in my art as well in the classroom with my students. Introducing a 1st grader to a 3D printer or laser cutter is a very fun experience but helping and watching use it is even greater. I have an extensive background in ceramics and building stuff. I have built a few 3D printers, kilns, and pizza ovens. I have learned a lot along the way and am happy to help where I can but also looking forward to learning more.</p>
      <p>&nbsp;</p>
@@ -52,11 +66,12 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

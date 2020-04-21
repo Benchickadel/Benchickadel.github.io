@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1586821976297">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1587432053888">
   <folder name="assets">
     <file name="sewer-cookie-cutter.3dm" crc="153086017" seo="true" mt="1586760905000"/>
     <file name="sewer-cookie-cutter.stl" crc="471814007" seo="true" mt="1586535666000"/>
@@ -9,28 +9,32 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process"/>
+    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process:test-cubes:printer-build:experimental-tests:test-tubes"/>
     <file name="index.css" crc="3901710996" ref="index"/>
     <file name="about.css" crc="350617340" ref="about"/>
     <file name="contact.css" crc="4215882065" ref="contact"/>
-    <file name="projects.css" crc="4071249706" ref="projects"/>
-    <file name="e-cookie-process.css" crc="4142552430" ref="e-cookie-process"/>
-    <file name="george-process.css" crc="228152538" ref="george-process"/>
-    <file name="sewer-cookie-process.css" crc="466520220" ref="sewer-cookie-process"/>
+    <file name="projects.css" crc="4070762474" ref="projects"/>
+    <file name="e-cookie-process.css" crc="172873857" ref="e-cookie-process"/>
+    <file name="george-process.css" crc="4143482110" ref="george-process"/>
+    <file name="sewer-cookie-process.css" crc="3982623079" ref="sewer-cookie-process"/>
+    <file name="test-cubes.css" crc="154508754" ref="test-cubes"/>
+    <file name="printer-build.css" crc="3947250428" ref="printer-build"/>
+    <file name="experimental-tests.css" crc="3959497703" ref="experimental-tests"/>
+    <file name="test-tubes.css" crc="4138210672" ref="test-tubes"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index"/>
-    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process"/>
-    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
   </folder>
   <folder name="images">
     <file name="brick-oven-crop-u100.jpg" crc="396770155" seo="true" ref="about">
@@ -39,17 +43,13 @@
     <file name="pizza fire.gif" crc="3810635916" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sewer.jpg" crc="4277182465" seo="true" ref="projects:sewer-cookie-process">
+    <file name="sewer.jpg" crc="4277182465" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
       <caption webpage="sewer-cookie-process" alt=""/>
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="e-drawing.jpg" crc="4125489255" seo="true" ref="e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
-      <caption webpage="projects" alt=""/>
     </file>
     <file name="5b8d3652a639e004e1cab54b.png" crc="512195897" seo="true" ref="projects:george-process">
-      <caption webpage="george-process" alt=""/>
       <caption webpage="projects" alt=""/>
+      <caption webpage="george-process" alt=""/>
     </file>
     <file name="sewer stl pic150x150.jpg" crc="3836134701" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
@@ -75,31 +75,17 @@
     <file name="sewer cutter.jpg" crc="3905596993" seo="true" ref="sewer-cookie-process">
       <caption webpage="sewer-cookie-process" alt=""/>
     </file>
-    <file name="e-ps.jpg" crc="53401263" seo="true" ref="e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
-    </file>
     <file name="e-vector.jpg" crc="3778223586" seo="true" ref="e-cookie-process">
       <caption webpage="e-cookie-process" alt=""/>
     </file>
-    <file name="chamfer.jpg" crc="191546702" seo="true" ref="e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
-    </file>
-    <file name="top outline.jpg" crc="87357614" seo="true" ref="e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
-    </file>
-    <file name="e-stl pic.jpg" crc="4028886854" seo="true" ref="e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
-    </file>
-    <file name="e-3d print-crop-u4437.jpg" crc="4254234062" seo="true" ref="e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
-    </file>
-    <file name="e-drawing113x151.jpg" crc="121694336" seo="true" ref="projects">
+    <file name="e-drawing113x151.jpg" crc="528365407" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="top outline.png" crc="207751519" seo="true" ref="projects">
+    <file name="top outline.png" crc="148470296" seo="true" ref="projects:e-cookie-process">
       <caption webpage="projects" alt=""/>
+      <caption webpage="e-cookie-process" alt=""/>
     </file>
-    <file name="e-stl pic133x150.png" crc="381604221" seo="true" ref="projects">
+    <file name="e-stl pic133x150.png" crc="207831316" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
     <file name="george 3dm pic164x150.png" crc="274383304" seo="true" ref="projects">
@@ -118,12 +104,96 @@
       <caption webpage="george-process" alt=""/>
     </file>
     <file name="george 3dprint-u4710.png" crc="4146956484" ref="george-process"/>
+    <file name="e-stl pic.png" crc="137642792" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="sewer2.jpg" crc="521129588" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="e-drawing-crop-u5758.jpg" crc="92350901" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="e-ps-crop-u5748.jpg" crc="3994605116" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="chamfer-crop-u6324.jpg" crc="269903996" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="e-3d print-crop-u6510.jpg" crc="4101886933" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="fuzzy surface.jpg" crc="4231053148" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="wirecube1.jpg" crc="451697230" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="wirecube2.jpg" crc="4099589491" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="wirecube3.jpg" crc="4060761213" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="2wall tube.jpg" crc="4227132134" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="1wall_zseam.jpg" crc="419644739" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="1wall_spralized.jpg" crc="4166026213" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="cylinder 01-0005.jpg" crc="4011591703" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="cube3-crop-u8013.jpg" crc="4120949338" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube1.jpg" crc="447967484" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube2.jpg" crc="532517228" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube3.jpg" crc="230327329" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube4.jpg" crc="4088507820" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube1-crop-u8245.jpg" crc="237793809" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube2-crop-u8248.jpg" crc="4226728919" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube3-crop-u8251.jpg" crc="57519244" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube4-crop-u8254.jpg" crc="42048017" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube and hole1.jpg" crc="17077603" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube and hole2-u8631.png" crc="4258085787" ref="test-cubes"/>
+    <file name="printer pic308x411.jpg" crc="136975547" seo="true" ref="printer-build">
+      <caption webpage="printer-build" alt=""/>
+      <caption webpage="printer-build" alt=""/>
+    </file>
+    <file name="printer pic-crop-u7920.jpg" crc="390498639" seo="true" ref="printer-build">
+      <caption webpage="printer-build" alt=""/>
+    </file>
   </folder>
-  <file name="about.html" crc="97809420" seo="true" mt="1586814293027" redirect="true"/>
-  <file name="projects.html" crc="3922191651" seo="true" mt="1586819274638" redirect="true"/>
-  <file name="contact.html" crc="282946218" seo="true" mt="1586814349019" redirect="true"/>
-  <file name="index.html" crc="238864239" seo="true" mt="1586814125751" redirect="true"/>
-  <file name="sewer-cookie-process.html" crc="250850684" seo="true" mt="1586814719282" redirect="true"/>
-  <file name="e-cookie-process.html" crc="454908204" seo="true" mt="1586817782881" redirect="true"/>
-  <file name="george-process.html" crc="260441872" seo="true" mt="1586821947441" redirect="true"/>
+  <file name="about.html" crc="97809420" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="projects.html" crc="3857261507" seo="true" mt="1587431890473" redirect="true"/>
+  <file name="contact.html" crc="282946218" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="index.html" crc="238864239" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="sewer-cookie-process.html" crc="372940029" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="e-cookie-process.html" crc="3931263919" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="george-process.html" crc="4061944252" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="experimental-tests.html" crc="3952397581" seo="true" mt="1587431965630" redirect="true"/>
+  <file name="test-tubes.html" crc="326334016" seo="true" mt="1587432021022" redirect="true"/>
+  <file name="test-cubes.html" crc="4125707005" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="printer-build.html" crc="4221824718" seo="true" mt="1587431531920" redirect="true"/>
 </manifest>

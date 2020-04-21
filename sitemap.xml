@@ -50,6 +50,9 @@
     <image:image>
       <image:loc>http://ben598.com/images/cube%20and%20hole1.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/cube%20and%20hole2.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ben598.com/test-tubes.html</loc>

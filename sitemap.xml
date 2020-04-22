@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ben598.com/index.html</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,7 +17,7 @@
   </url>
   <url>
     <loc>http://ben598.com/test-cubes.html</loc>
-    <lastmod>2020-04-21</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -51,12 +51,12 @@
       <image:loc>http://ben598.com/images/cube%20and%20hole1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/cube%20and%20hole2.jpg</image:loc>
+      <image:loc>http://ben598.com/images/cube%20and%20hole2-crop-u8631.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ben598.com/test-tubes.html</loc>
-    <lastmod>2020-04-21</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -74,19 +74,22 @@
   </url>
   <url>
     <loc>http://ben598.com/printer-build.html</loc>
-    <lastmod>2020-04-21</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ben598.com/images/printer%20pic308x411.jpg</image:loc>
+      <image:loc>http://ben598.com/images/printer%20pic-crop-u7920.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/printer%20pic-crop-u7920.jpg</image:loc>
+      <image:loc>http://ben598.com/images/printer%20pic419x559.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/printer%20pic418x558.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ben598.com/george-process.html</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -102,7 +105,7 @@
       <image:loc>http://ben598.com/images/george%203dm%20pic.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/george%20stl%20pic.jpg</image:loc>
+      <image:loc>http://ben598.com/images/george%20stl%20pic.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -116,12 +119,9 @@
   </url>
   <url>
     <loc>http://ben598.com/projects.html</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ben598.com/images/sewer.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://ben598.com/images/5b8d3652a639e004e1cab54b.png</image:loc>
     </image:image>
@@ -130,9 +130,6 @@
     </image:image>
     <image:image>
       <image:loc>http://ben598.com/images/sewer%203dm%20pic151x151.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/george%20stl.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ben598.com/images/e-drawing113x151.jpg</image:loc>
@@ -146,10 +143,16 @@
     <image:image>
       <image:loc>http://ben598.com/images/george%203dm%20pic164x150.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/sewer152x147.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/george%20stl%20pic150x151.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ben598.com/e-cookie-process.html</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +179,7 @@
   </url>
   <url>
     <loc>http://ben598.com/experimental-tests.html</loc>
-    <lastmod>2020-04-21</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -186,15 +189,15 @@
       <image:loc>http://ben598.com/images/wirecube1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/wirecube2.jpg</image:loc>
+      <image:loc>http://ben598.com/images/wirecube2-crop-u9612.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/wirecube3.jpg</image:loc>
+      <image:loc>http://ben598.com/images/wirecube3-crop-u9629.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ben598.com/sewer-cookie-process.html</loc>
-    <lastmod>2020-04-20</lastmod>
+    <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -213,7 +216,7 @@
       <image:loc>http://ben598.com/images/sewer%20cutter.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ben598.com/images/sewer2.jpg</image:loc>
+      <image:loc>http://ben598.com/images/sewer.jpg</image:loc>
     </image:image>
   </url>
   <url>

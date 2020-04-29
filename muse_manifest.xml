@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1587656717003">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1588189930544">
   <folder name="assets">
     <file name="sewer-cookie-cutter.3dm" crc="153086017" seo="true" mt="1586760905000"/>
     <file name="sewer-cookie-cutter.stl" crc="471814007" seo="true" mt="1586535666000"/>
@@ -6,14 +6,23 @@
     <file name="e-vector2.stl" crc="3931064835" seo="true" mt="1586576034000"/>
     <file name="george.3dm" crc="487748215" seo="true" mt="1586579691000"/>
     <file name="george1.stl" crc="3797859778" seo="true" mt="1586579532000"/>
+    <file name="nested.3dm" crc="4082337638" seo="true" mt="1588031217000"/>
+    <file name="nest_v3.gh" crc="4222900345" seo="true" mt="1588189845000"/>
+    <file name="nest_v3.3dm" crc="4089661711" seo="true" mt="1588093920000"/>
+    <file name="img_9311.heic" crc="455918198" seo="true" mt="1588112828000"/>
+    <file name="rivet_v5.3dm" crc="477621435" seo="true" mt="1588144951000"/>
+    <file name="rivet_v5.gh" crc="356189538" seo="true" mt="1588145004000"/>
+    <file name="extended.heic" crc="3773877697" seo="true" mt="1588142064000"/>
+    <file name="img_6640.mov" crc="116139744" seo="true" mt="1588112851000"/>
+    <file name="nested-test.m4v" crc="4290008458" seo="true" mt="1588149272000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process:test-cubes:printer-build:experimental-tests:test-tubes"/>
+    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process:test-cubes:printer-build:experimental-tests:test-tubes:nests:clip"/>
     <file name="index.css" crc="3901710996" ref="index"/>
     <file name="about.css" crc="350617340" ref="about"/>
     <file name="contact.css" crc="4215882065" ref="contact"/>
-    <file name="projects.css" crc="381460877" ref="projects"/>
+    <file name="projects.css" crc="4072927401" ref="projects"/>
     <file name="e-cookie-process.css" crc="4058770667" ref="e-cookie-process"/>
     <file name="george-process.css" crc="4143482110" ref="george-process"/>
     <file name="sewer-cookie-process.css" crc="139502216" ref="sewer-cookie-process"/>
@@ -21,20 +30,22 @@
     <file name="printer-build.css" crc="3920448372" ref="printer-build"/>
     <file name="experimental-tests.css" crc="404359794" ref="experimental-tests"/>
     <file name="test-tubes.css" crc="104594014" ref="test-tubes"/>
+    <file name="nests.css" crc="3930448117" ref="nests"/>
+    <file name="clip.css" crc="452180851" ref="clip"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
-    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
+    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip"/>
   </folder>
   <folder name="images">
     <file name="brick-oven-crop-u100.jpg" crc="396770155" seo="true" ref="about">
@@ -44,8 +55,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="5b8d3652a639e004e1cab54b.png" crc="512195897" seo="true" ref="projects:george-process">
-      <caption webpage="projects" alt=""/>
       <caption webpage="george-process" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="sewer stl pic150x150.jpg" crc="3836134701" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
@@ -75,8 +86,8 @@
       <caption webpage="projects" alt=""/>
     </file>
     <file name="top outline.png" crc="148470296" seo="true" ref="projects:e-cookie-process">
-      <caption webpage="projects" alt=""/>
       <caption webpage="e-cookie-process" alt=""/>
+      <caption webpage="projects" alt=""/>
     </file>
     <file name="e-stl pic133x150.png" crc="207831316" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
@@ -157,7 +168,7 @@
     <file name="cube and hole1.jpg" crc="17077603" seo="true" ref="test-cubes">
       <caption webpage="test-cubes" alt=""/>
     </file>
-    <file name="printer pic-crop-u7920.jpg" crc="3780326044" seo="true" ref="printer-build">
+    <file name="printer pic-crop-u7920.jpg" crc="295126950" seo="true" ref="printer-build">
       <caption webpage="printer-build" alt=""/>
     </file>
     <file name="sewer152x147.jpg" crc="4155647820" seo="true" ref="projects">
@@ -187,9 +198,69 @@
     <file name="george stl pic.png" crc="4063089340" seo="true" ref="george-process">
       <caption webpage="george-process" alt=""/>
     </file>
+    <file name="clip and rivet-crop-u13759.jpg" crc="3872394396" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 122625 am-crop-u13761.jpg" crc="4267105903" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 120005 am-crop-u13763.jpg" crc="429019508" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="on print bed-crop-u13712.jpg" crc="4292117519" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-28 at 115303 pm-crop-u13715.jpg" crc="386892518" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 120005 am-crop-u13718.jpg" crc="429019508" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-28 at 115303 pm-crop-u14295.jpg" crc="250593535" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 11446 am-crop-u14510.jpg" crc="84490120" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="on print bed-crop-u14603.jpg" crc="24627078" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="ezgifcom-optimize.gif" crc="3952219945" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 122625 am.jpg" crc="3796275804" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 122307 am-crop-u14146.jpg" crc="381841513" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 124916 am.jpg" crc="3769207747" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="on the bed.jpg" crc="4007860494" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="clip and rivet-crop-u14206.jpg" crc="4194965972" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="detail2.jpg" crc="3801270721" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="in process1.jpg" crc="481643312" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="ezgifcom-optimize (1).gif" crc="3791914494" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="detail1.jpg" crc="252355577" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 125038 pm.jpg" crc="4081080663" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
   </folder>
   <file name="about.html" crc="97809420" seo="true" mt="1587431531920" redirect="true"/>
-  <file name="projects.html" crc="352849427" seo="true" mt="1587572881092" redirect="true"/>
+  <file name="projects.html" crc="3863007590" seo="true" mt="1588149057990" redirect="true"/>
   <file name="contact.html" crc="282946218" seo="true" mt="1587431531920" redirect="true"/>
   <file name="index.html" crc="238864239" seo="true" mt="1587572853078" redirect="true"/>
   <file name="sewer-cookie-process.html" crc="83188626" seo="true" mt="1587573579558" redirect="true"/>
@@ -198,5 +269,7 @@
   <file name="experimental-tests.html" crc="146169150" seo="true" mt="1587573588685" redirect="true"/>
   <file name="test-tubes.html" crc="4124408764" seo="true" mt="1587616887919" redirect="true"/>
   <file name="test-cubes.html" crc="290486467" seo="true" mt="1587573606875" redirect="true"/>
-  <file name="printer-build.html" crc="480346039" seo="true" mt="1587573649471" redirect="true"/>
+  <file name="printer-build.html" crc="4239829988" seo="true" mt="1588145444517" redirect="true"/>
+  <file name="nests.html" crc="343636151" seo="true" mt="1588189910229" redirect="true"/>
+  <file name="clip.html" crc="4278336483" seo="true" mt="1588189691978" redirect="true"/>
 </manifest>

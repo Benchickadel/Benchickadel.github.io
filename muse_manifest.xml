@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1588189930544">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1588204292063">
   <folder name="assets">
     <file name="sewer-cookie-cutter.3dm" crc="153086017" seo="true" mt="1586760905000"/>
     <file name="sewer-cookie-cutter.stl" crc="471814007" seo="true" mt="1586535666000"/>
@@ -15,6 +15,9 @@
     <file name="extended.heic" crc="3773877697" seo="true" mt="1588142064000"/>
     <file name="img_6640.mov" crc="116139744" seo="true" mt="1588112851000"/>
     <file name="nested-test.m4v" crc="4290008458" seo="true" mt="1588149272000"/>
+    <file name="v5_post.stl" crc="4127047572" seo="true" mt="1588114885000"/>
+    <file name="v5_stopclip.stl" crc="43558468" seo="true" mt="1588114915000"/>
+    <file name="7s_nested_bc.stl" crc="4257349525" seo="true" mt="1588093844000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
@@ -22,7 +25,7 @@
     <file name="index.css" crc="3901710996" ref="index"/>
     <file name="about.css" crc="350617340" ref="about"/>
     <file name="contact.css" crc="4215882065" ref="contact"/>
-    <file name="projects.css" crc="4072927401" ref="projects"/>
+    <file name="projects.css" crc="344694180" ref="projects"/>
     <file name="e-cookie-process.css" crc="4058770667" ref="e-cookie-process"/>
     <file name="george-process.css" crc="4143482110" ref="george-process"/>
     <file name="sewer-cookie-process.css" crc="139502216" ref="sewer-cookie-process"/>
@@ -86,8 +89,8 @@
       <caption webpage="projects" alt=""/>
     </file>
     <file name="top outline.png" crc="148470296" seo="true" ref="projects:e-cookie-process">
-      <caption webpage="e-cookie-process" alt=""/>
       <caption webpage="projects" alt=""/>
+      <caption webpage="e-cookie-process" alt=""/>
     </file>
     <file name="e-stl pic133x150.png" crc="207831316" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
@@ -260,7 +263,7 @@
     </file>
   </folder>
   <file name="about.html" crc="97809420" seo="true" mt="1587431531920" redirect="true"/>
-  <file name="projects.html" crc="3863007590" seo="true" mt="1588149057990" redirect="true"/>
+  <file name="projects.html" crc="434191469" seo="true" mt="1588204237745" redirect="true"/>
   <file name="contact.html" crc="282946218" seo="true" mt="1587431531920" redirect="true"/>
   <file name="index.html" crc="238864239" seo="true" mt="1587572853078" redirect="true"/>
   <file name="sewer-cookie-process.html" crc="83188626" seo="true" mt="1587573579558" redirect="true"/>

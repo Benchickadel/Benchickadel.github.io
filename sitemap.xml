@@ -10,6 +10,27 @@
     </image:image>
   </url>
   <url>
+    <loc>http://ben598.com/nests.html</loc>
+    <lastmod>2020-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/screen%20shot%202020-04-28%20at%20115303%20pm-crop-u14295.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/screen%20shot%202020-04-29%20at%2011446%20am-crop-u14510.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/on%20print%20bed-crop-u14603.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/ezgifcom-optimize.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/screen%20shot%202020-04-29%20at%20125038%20pm.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://ben598.com/clip.html</loc>
     <lastmod>2020-04-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -40,27 +61,6 @@
     </image:image>
     <image:image>
       <image:loc>http://ben598.com/images/detail1.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://ben598.com/nests.html</loc>
-    <lastmod>2020-04-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ben598.com/images/screen%20shot%202020-04-28%20at%20115303%20pm-crop-u14295.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/screen%20shot%202020-04-29%20at%2011446%20am-crop-u14510.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/on%20print%20bed-crop-u14603.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/ezgifcom-optimize.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/screen%20shot%202020-04-29%20at%20125038%20pm.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -292,7 +292,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/assets/extended.heic</loc>
+    <loc>http://ben598.com/assets/img_6640.mov</loc>
     <lastmod>2020-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -300,6 +300,24 @@
   <url>
     <loc>http://ben598.com/assets/rivet_v5.gh</loc>
     <lastmod>2020-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/extended.heic</loc>
+    <lastmod>2020-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/v5_stopclip.stl</loc>
+    <lastmod>2020-04-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/7s_nested_bc.stl</loc>
+    <lastmod>2020-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -364,20 +382,20 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ben598.com/assets/nested-test.m4v</loc>
+    <lastmod>2020-04-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ben598.com/assets/sewer-cookie-cutter.3dm</loc>
     <lastmod>2020-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/assets/img_6640.mov</loc>
+    <loc>http://ben598.com/assets/v5_post.stl</loc>
     <lastmod>2020-04-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ben598.com/assets/nested-test.m4v</loc>
-    <lastmod>2020-04-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

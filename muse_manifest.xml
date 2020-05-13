@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1588799960520">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1589404201053">
   <folder name="assets">
     <file name="sewer-cookie-cutter.3dm" crc="153086017" seo="true" mt="1586760905000"/>
     <file name="sewer-cookie-cutter.stl" crc="471814007" seo="true" mt="1586535666000"/>
@@ -21,14 +21,22 @@
     <file name="luca.obj" crc="4083430961" seo="true" mt="1588643166000"/>
     <file name="enzo.obj" crc="445737356" seo="true" mt="1588643570000"/>
     <file name="luca-enzo.stl" crc="251910851" seo="true" mt="1588702672000"/>
+    <file name="mold-top.3dm" crc="78709390" seo="true" mt="1589395134000"/>
+    <file name="mold-bottom.3dm" crc="3992242431" seo="true" mt="1589325707000"/>
+    <file name="mold-top.stl" crc="123062941" seo="true" mt="1589243898000"/>
+    <file name="mold-bottom.stl" crc="4039653201" seo="true" mt="1589325823000"/>
+    <file name="screw04.stl" crc="411029259" seo="true" mt="1588900696000"/>
+    <file name="screw01.3dm" crc="3985123049" seo="true" mt="1589403076000"/>
+    <file name="nut02.stl" crc="4271684595" seo="true" mt="1588548011000"/>
+    <file name="inserts.ai" crc="3854382518" seo="true" mt="1588808210000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process:test-cubes:printer-build:experimental-tests:test-tubes:nests:clip:getting-mesh-process:lamp:print-pics"/>
+    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process:test-cubes:printer-build:experimental-tests:test-tubes:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
     <file name="index.css" crc="3901710996" ref="index"/>
     <file name="about.css" crc="350617340" ref="about"/>
     <file name="contact.css" crc="4215882065" ref="contact"/>
-    <file name="projects.css" crc="179610161" ref="projects"/>
+    <file name="projects.css" crc="141771508" ref="projects"/>
     <file name="e-cookie-process.css" crc="4058770667" ref="e-cookie-process"/>
     <file name="george-process.css" crc="4143482110" ref="george-process"/>
     <file name="sewer-cookie-process.css" crc="139502216" ref="sewer-cookie-process"/>
@@ -39,22 +47,23 @@
     <file name="nests.css" crc="3930448117" ref="nests"/>
     <file name="clip.css" crc="452180851" ref="clip"/>
     <file name="getting-mesh-process.css" crc="267327294" ref="getting-mesh-process"/>
-    <file name="lamp.css" crc="4103923591" ref="lamp"/>
+    <file name="lamp.css" crc="4227538651" ref="lamp"/>
     <file name="print-pics.css" crc="3871978607" ref="print-pics"/>
+    <file name="mold-making.css" crc="308971208" ref="mold-making"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics"/>
-    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp"/>
-    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp"/>
-    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp"/>
-    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
+    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
   </folder>
   <folder name="images">
     <file name="brick-oven-crop-u100.jpg" crc="396770155" seo="true" ref="about">
@@ -276,16 +285,10 @@
     <file name="enzo obj-crop-u15881.jpg" crc="4111183428" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
-    <file name="luca-enzo cura-crop-u15878.jpg" crc="3798027969" seo="true" ref="projects">
+    <file name="luca-enzo cura-crop-u15878.jpg" crc="3817329235" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
     <file name="loft and flow154x94.jpg" crc="69120544" seo="true" ref="projects">
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="housing123x92.jpg" crc="177384315" seo="true" ref="projects">
-      <caption webpage="projects" alt=""/>
-    </file>
-    <file name="img_6757128x129.jpg" crc="67203954" seo="true" ref="projects">
       <caption webpage="projects" alt=""/>
     </file>
     <file name="loft and flow152x93.jpg" crc="4120099669" seo="true" ref="projects">
@@ -373,9 +376,93 @@
     <file name="img_6740 copy.jpg" crc="3935097771" seo="true" ref="print-pics">
       <caption webpage="print-pics" alt=""/>
     </file>
+    <file name="top mold good-crop-u18733.jpg" crc="283618870" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bottom mold good-crop-u18739.jpg" crc="4091902761" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-05-12 at 125022 pm-crop-u18736.jpg" crc="4046710059" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-05-12 at 125047 pm-crop-u18742.jpg" crc="3990645568" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="gem1 verticies-crop-u18730.jpg" crc="434550685" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="slots-crop-u17835.jpg" crc="274343911" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="stacked-crop-u17854.jpg" crc="4215437270" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="layout.jpg" crc="316624293" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="layout_detail.jpg" crc="320251911" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="curlin.jpg" crc="104211012" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="flareout.jpg" crc="3845147582" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="lamp!-crop-u18247.jpg" crc="3933030499" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="001creating surfaces.jpg" crc="519227479" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="002a polar array mishap.jpg" crc="462821154" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="002gem1 verticies.jpg" crc="4146402599" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="003final gem.jpg" crc="307484618" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="004positive test.jpg" crc="3837496993" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="005taper wall.jpg" crc="4179725768" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="006 resizing keys.jpg" crc="4275725881" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name=" 007boolean issue.jpg" crc="479996599" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="008 boolean fixed.jpg" crc="4050698213" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="009bottom mold good.jpg" crc="342825203" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="009top mold good.jpg" crc="299051534" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="010top mold.jpg" crc="240047504" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="housing2-crop-u17668.png" crc="4089519236" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="housing2-crop-u17675.png" crc="253862999" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="vestor shade inserts-crop-u19952.jpg" crc="4170846325" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="housing2-crop-u19778.png" crc="12924455" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
   </folder>
   <file name="about.html" crc="97809420" seo="true" mt="1587431531920" redirect="true"/>
-  <file name="projects.html" crc="4165341573" seo="true" mt="1588722026423" redirect="true"/>
+  <file name="projects.html" crc="3921937078" seo="true" mt="1589404047178" redirect="true"/>
   <file name="contact.html" crc="282946218" seo="true" mt="1587431531920" redirect="true"/>
   <file name="index.html" crc="238864239" seo="true" mt="1587572853078" redirect="true"/>
   <file name="sewer-cookie-process.html" crc="83188626" seo="true" mt="1587573579558" redirect="true"/>
@@ -388,6 +475,7 @@
   <file name="nests.html" crc="343636151" seo="true" mt="1588189910229" redirect="true"/>
   <file name="clip.html" crc="4278336483" seo="true" mt="1588189691978" redirect="true"/>
   <file name="getting-mesh-process.html" crc="438805340" seo="true" mt="1588713700780" redirect="true"/>
-  <file name="lamp.html" crc="4204530471" seo="true" mt="1588721342019" redirect="true"/>
+  <file name="lamp.html" crc="224676374" seo="true" mt="1589403476107" redirect="true"/>
   <file name="print-pics.html" crc="4018525052" seo="true" mt="1588714970654" redirect="true"/>
+  <file name="mold-making.html" crc="180200878" seo="true" mt="1589325430313" redirect="true"/>
 </manifest>

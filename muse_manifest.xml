@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1589821074887">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1589822042099">
   <folder name="assets">
     <file name="sewer-cookie-cutter.3dm" crc="153086017" seo="true" mt="1586760905000"/>
     <file name="sewer-cookie-cutter.stl" crc="471814007" seo="true" mt="1586535666000"/>
@@ -54,7 +54,7 @@
     <file name="getting-mesh-process.css" crc="267327294" ref="getting-mesh-process"/>
     <file name="lamp.css" crc="4227538651" ref="lamp"/>
     <file name="print-pics.css" crc="3871978607" ref="print-pics"/>
-    <file name="mold-making.css" crc="508612887" ref="mold-making"/>
+    <file name="mold-making.css" crc="3808048915" ref="mold-making"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making"/>
@@ -576,5 +576,5 @@
   <file name="getting-mesh-process.html" crc="438805340" seo="true" mt="1588713700780" redirect="true"/>
   <file name="lamp.html" crc="224676374" seo="true" mt="1589403476107" redirect="true"/>
   <file name="print-pics.html" crc="4018525052" seo="true" mt="1588714970654" redirect="true"/>
-  <file name="mold-making.html" crc="4087898513" seo="true" mt="1589819876828" redirect="true"/>
+  <file name="mold-making.html" crc="3827819392" seo="true" mt="1589821948494" redirect="true"/>
 </manifest>

@@ -10,30 +10,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/final-casting.html</loc>
-    <lastmod>2020-06-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ben598.com/images/1st%20vs%20final%20copy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/xtc%20mixing-mold%20prep.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/pla%20sanded%20molds.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/hammer%20vibration.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/vibrot%20table.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ben598.com/images/5%20smooth%20molds%20silicon.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://ben598.com/final-castings-and-extensions.html</loc>
     <lastmod>2020-06-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -70,6 +46,54 @@
     </image:image>
     <image:image>
       <image:loc>http://ben598.com/images/sanding%20jig2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ben598.com/zip-chips.html</loc>
+    <lastmod>2020-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/black%20pla%20mold-crop-u24432.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/lidon-lidoff-crop-u24445.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/taking%20apart%20mold%20with%20clamp-crop-u24452.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/pasted%20image%202864x2289-crop-u24494.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/top%20detail-crop-u24512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/zipchip%20test%20flight.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ben598.com/final-casting.html</loc>
+    <lastmod>2020-06-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/1st%20vs%20final%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/xtc%20mixing-mold%20prep.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/pla%20sanded%20molds.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/hammer%20vibration.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/vibrot%20table.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/5%20smooth%20molds%20silicon.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -568,12 +592,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/contact.html</loc>
-    <lastmod>2020-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ben598.com/sewer-cookie-process.html</loc>
     <lastmod>2020-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -598,17 +616,14 @@
     </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/about.html</loc>
+    <loc>http://ben598.com/contact.html</loc>
     <lastmod>2020-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ben598.com/images/brick-oven-crop-u100.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ben598.com/projects.html</loc>
-    <lastmod>2020-06-02</lastmod>
+    <lastmod>2020-06-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -719,22 +734,28 @@
     <image:image>
       <image:loc>http://ben598.com/images/purple%20backlit%20copy-crop-u23665.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://ben598.com/images/pasted%20image%202057x1915-crop-u24333.jpg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://ben598.com/assets/mold-top.3dm</loc>
-    <lastmod>2020-05-13</lastmod>
+    <loc>http://ben598.com/about.html</loc>
+    <lastmod>2020-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ben598.com/assets/mold-bottom.3dm</loc>
-    <lastmod>2020-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ben598.com/images/brick-oven-crop-u100.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ben598.com/assets/mold-top.stl</loc>
     <lastmod>2020-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/mold-bottom.stl</loc>
+    <lastmod>2020-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -751,20 +772,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/assets/mold-bottom.stl</loc>
+    <loc>http://ben598.com/assets/nut02.stl</loc>
+    <lastmod>2020-05-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/mold-top.3dm</loc>
+    <lastmod>2020-05-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/mold-bottom.3dm</loc>
     <lastmod>2020-05-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ben598.com/assets/luca.obj</loc>
-    <lastmod>2020-05-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ben598.com/assets/img_6885.mov</loc>
-    <lastmod>2020-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -799,6 +820,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ben598.com/assets/bottom-rim-detail.heic</loc>
+    <lastmod>2020-05-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ben598.com/assets/luca-enzo.stl</loc>
     <lastmod>2020-05-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -811,14 +838,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/assets/7s_nested_bc.stl</loc>
-    <lastmod>2020-04-28</lastmod>
+    <loc>http://ben598.com/assets/luca.obj</loc>
+    <lastmod>2020-05-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ben598.com/assets/sewer-cookie-cutter.stl</loc>
     <lastmod>2020-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ben598.com/assets/7s_nested_bc.stl</loc>
+    <lastmod>2020-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -913,8 +946,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/assets/nut02.stl</loc>
-    <lastmod>2020-05-03</lastmod>
+    <loc>http://ben598.com/assets/inserts.ai</loc>
+    <lastmod>2020-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -925,8 +958,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ben598.com/assets/inserts.ai</loc>
-    <lastmod>2020-05-06</lastmod>
+    <loc>http://ben598.com/assets/img_6885.mov</loc>
+    <lastmod>2020-05-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

@@ -1,0 +1,712 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ben598.com" resolutions="1x" timestamp="1598120151562">
+  <folder name="assets">
+    <file name="sewer-cookie-cutter.3dm" crc="153086017" seo="true" mt="1586760905000"/>
+    <file name="sewer-cookie-cutter.stl" crc="471814007" seo="true" mt="1586535666000"/>
+    <file name="e-vector2.3dm" crc="340058173" seo="true" mt="1586717964000"/>
+    <file name="e-vector2.stl" crc="3931064835" seo="true" mt="1586576034000"/>
+    <file name="george.3dm" crc="487748215" seo="true" mt="1586579691000"/>
+    <file name="george1.stl" crc="3797859778" seo="true" mt="1586579532000"/>
+    <file name="nested.3dm" crc="4082337638" seo="true" mt="1588031217000"/>
+    <file name="nest_v3.gh" crc="4222900345" seo="true" mt="1588189845000"/>
+    <file name="nest_v3.3dm" crc="4089661711" seo="true" mt="1588093920000"/>
+    <file name="img_9311.heic" crc="455918198" seo="true" mt="1588112828000"/>
+    <file name="rivet_v5.3dm" crc="477621435" seo="true" mt="1588144951000"/>
+    <file name="rivet_v5.gh" crc="356189538" seo="true" mt="1588145004000"/>
+    <file name="extended.heic" crc="3773877697" seo="true" mt="1588142064000"/>
+    <file name="img_6640.mov" crc="116139744" seo="true" mt="1588112851000"/>
+    <file name="nested-test.m4v" crc="4290008458" seo="true" mt="1588149272000"/>
+    <file name="v5_post.stl" crc="4127047572" seo="true" mt="1588114885000"/>
+    <file name="v5_stopclip.stl" crc="43558468" seo="true" mt="1588114915000"/>
+    <file name="7s_nested_bc.stl" crc="4257349525" seo="true" mt="1588093844000"/>
+    <file name="luca.obj" crc="4083430961" seo="true" mt="1588643166000"/>
+    <file name="enzo.obj" crc="445737356" seo="true" mt="1588643570000"/>
+    <file name="luca-enzo.stl" crc="251910851" seo="true" mt="1588702672000"/>
+    <file name="mold-top.3dm" crc="4085577500" seo="true" mt="1589435760000"/>
+    <file name="mold-bottom.3dm" crc="3992242431" seo="true" mt="1589325707000"/>
+    <file name="mold-top.stl" crc="123062941" seo="true" mt="1589243898000"/>
+    <file name="mold-bottom.stl" crc="4039653201" seo="true" mt="1589325823000"/>
+    <file name="screw04.stl" crc="411029259" seo="true" mt="1588900696000"/>
+    <file name="screw01.3dm" crc="3985123049" seo="true" mt="1589403076000"/>
+    <file name="nut02.stl" crc="4271684595" seo="true" mt="1588548011000"/>
+    <file name="inserts.ai" crc="3854382518" seo="true" mt="1588808210000"/>
+    <file name="img_6885.mov" crc="25002230" seo="true" mt="1589763598000"/>
+    <file name="plug1.stl" crc="4278262731" seo="true" mt="1589410032000"/>
+    <file name="plug2.stl" crc="45392100" seo="true" mt="1589409130000"/>
+    <file name="mold-top4.stl" crc="417262575" seo="true" mt="1589435735000"/>
+    <file name="gem-icecream-plug.stl" crc="90671696" seo="true" mt="1589418168000"/>
+    <file name="retainer-arts-timeline.pdf" crc="3932599385" seo="true" mt="1589927253000"/>
+    <file name="bottom-rim-detail.heic" crc="4165847967" seo="true" mt="1590793495000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_home.css" crc="279202371" ref="index:about:contact:projects:e-cookie-process:george-process:sewer-cookie-process:test-cubes:printer-build:experimental-tests:test-tubes:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:timeline-materials:proposal:final-castings-and-extensions:final-design:final-casting:zip-chips"/>
+    <file name="index.css" crc="3901710996" ref="index"/>
+    <file name="about.css" crc="350617340" ref="about"/>
+    <file name="contact.css" crc="4215882065" ref="contact"/>
+    <file name="projects.css" crc="4040486736" ref="projects"/>
+    <file name="e-cookie-process.css" crc="417680486" ref="e-cookie-process"/>
+    <file name="george-process.css" crc="4143482110" ref="george-process"/>
+    <file name="sewer-cookie-process.css" crc="139502216" ref="sewer-cookie-process"/>
+    <file name="test-cubes.css" crc="251295104" ref="test-cubes"/>
+    <file name="printer-build.css" crc="3920448372" ref="printer-build"/>
+    <file name="experimental-tests.css" crc="404359794" ref="experimental-tests"/>
+    <file name="test-tubes.css" crc="104594014" ref="test-tubes"/>
+    <file name="nests.css" crc="3930448117" ref="nests"/>
+    <file name="clip.css" crc="452180851" ref="clip"/>
+    <file name="getting-mesh-process.css" crc="267327294" ref="getting-mesh-process"/>
+    <file name="lamp.css" crc="4227538651" ref="lamp"/>
+    <file name="print-pics.css" crc="3871978607" ref="print-pics"/>
+    <file name="mold-making.css" crc="3808048915" ref="mold-making"/>
+    <file name="timeline-materials.css" crc="368825077" ref="timeline-materials"/>
+    <file name="proposal.css" crc="442250007" ref="proposal"/>
+    <file name="final-castings-and-extensions.css" crc="66209561" ref="final-castings-and-extensions"/>
+    <file name="final-design.css" crc="313999672" ref="final-design"/>
+    <file name="final-casting.css" crc="429960354" ref="final-casting"/>
+    <file name="zip-chips.css" crc="3992044929" ref="zip-chips"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="museutils.js" crc="3939489907" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="whatinput.js" crc="86476730" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="museconfig.js" crc="3936894949" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="jquery.watch.js" crc="522499760" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="require.js" crc="4177726516" ref="about:projects:contact:index:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:projects:contact:sewer-cookie-process:e-cookie-process:george-process:index:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:print-pics:mold-making:proposal:timeline-materials:final-design:final-casting:final-castings-and-extensions:zip-chips"/>
+    <file name="webpro.js" crc="3856315280" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+    <file name="touchswipe.js" crc="3888935200" ref="projects:sewer-cookie-process:e-cookie-process:george-process:experimental-tests:test-tubes:test-cubes:printer-build:nests:clip:getting-mesh-process:lamp:mold-making"/>
+  </folder>
+  <folder name="images">
+    <file name="brick-oven-crop-u100.jpg" crc="396770155" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="pizza fire.gif" crc="3810635916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5b8d3652a639e004e1cab54b.png" crc="512195897" seo="true" ref="projects:george-process">
+      <caption webpage="george-process" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="sewer stl pic150x150.jpg" crc="3836134701" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="sewer 3dm pic151x151.jpg" crc="135546208" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="sewer cookie.jpg" crc="3881815372" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="sewer cookie vector.jpg" crc="3989283331" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="sewer 3dm pic.jpg" crc="4044657696" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="sewer stl pic.jpg" crc="3856399803" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="sewer cutter.jpg" crc="3905596993" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="e-vector.jpg" crc="343101580" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="e-drawing113x151.jpg" crc="528365407" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="top outline.png" crc="148470296" seo="true" ref="projects:e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="e-stl pic133x150.png" crc="207831316" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="george 3dm pic164x150.png" crc="274383304" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="george.jpg" crc="269070736" seo="true" ref="george-process">
+      <caption webpage="george-process" alt=""/>
+    </file>
+    <file name="george vector pic.jpg" crc="3986013328" seo="true" ref="george-process">
+      <caption webpage="george-process" alt=""/>
+    </file>
+    <file name="george 3dm pic.png" crc="43379892" seo="true" ref="george-process">
+      <caption webpage="george-process" alt=""/>
+    </file>
+    <file name="george 3dprint-u4710.png" crc="4146956484" ref="george-process"/>
+    <file name="e-stl pic.png" crc="137642792" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="e-drawing-crop-u5758.jpg" crc="92350901" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="e-ps-crop-u5748.jpg" crc="3994605116" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="chamfer-crop-u6324.jpg" crc="269903996" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="e-3d print-crop-u6510.jpg" crc="4101886933" seo="true" ref="e-cookie-process">
+      <caption webpage="e-cookie-process" alt=""/>
+    </file>
+    <file name="fuzzy surface.jpg" crc="4231053148" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="wirecube1.jpg" crc="451697230" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="2wall tube.jpg" crc="4227132134" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="1wall_zseam.jpg" crc="419644739" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="1wall_spralized.jpg" crc="4166026213" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="cylinder 01-0005.jpg" crc="4046004602" seo="true" ref="test-tubes">
+      <caption webpage="test-tubes" alt=""/>
+    </file>
+    <file name="cube3-crop-u8013.jpg" crc="4120949338" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube1.jpg" crc="447967484" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube2.jpg" crc="532517228" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube3.jpg" crc="230327329" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube4.jpg" crc="4088507820" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube1-crop-u8245.jpg" crc="237793809" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube2-crop-u8248.jpg" crc="4226728919" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube3-crop-u8251.jpg" crc="57519244" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube4-crop-u8254.jpg" crc="42048017" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="cube and hole1.jpg" crc="17077603" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="printer pic-crop-u7920.jpg" crc="295126950" seo="true" ref="printer-build">
+      <caption webpage="printer-build" alt=""/>
+    </file>
+    <file name="sewer152x147.jpg" crc="4155647820" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="george stl pic150x151.png" crc="436567809" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="wirecube2-crop-u9612.jpg" crc="3874522035" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="wirecube3-crop-u9629.jpg" crc="476609204" seo="true" ref="experimental-tests">
+      <caption webpage="experimental-tests" alt=""/>
+    </file>
+    <file name="cube and hole2-crop-u8631.jpg" crc="309764222" seo="true" ref="test-cubes">
+      <caption webpage="test-cubes" alt=""/>
+    </file>
+    <file name="printer pic419x559.jpg" crc="4261321787" seo="true" ref="printer-build">
+      <caption webpage="printer-build" alt=""/>
+    </file>
+    <file name="printer pic418x558.jpg" crc="4189069590" seo="true" ref="printer-build">
+      <caption webpage="printer-build" alt=""/>
+    </file>
+    <file name="sewer.jpg" crc="387046406" seo="true" ref="sewer-cookie-process">
+      <caption webpage="sewer-cookie-process" alt=""/>
+    </file>
+    <file name="george stl pic.png" crc="4063089340" seo="true" ref="george-process">
+      <caption webpage="george-process" alt=""/>
+    </file>
+    <file name="clip and rivet-crop-u13759.jpg" crc="3872394396" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 122625 am-crop-u13761.jpg" crc="3800208903" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 120005 am-crop-u13763.jpg" crc="4244175777" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="on print bed-crop-u13712.jpg" crc="4292117519" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-28 at 115303 pm-crop-u13715.jpg" crc="465260503" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 120005 am-crop-u13718.jpg" crc="4244175777" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-28 at 115303 pm-crop-u14295.jpg" crc="250593535" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 11446 am-crop-u14510.jpg" crc="84490120" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="on print bed-crop-u14603.jpg" crc="24627078" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="ezgifcom-optimize.gif" crc="3952219945" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 122625 am.jpg" crc="3796275804" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 122307 am-crop-u14146.jpg" crc="381841513" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 124916 am.jpg" crc="3769207747" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="on the bed.jpg" crc="4007860494" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="clip and rivet-crop-u14206.jpg" crc="4194965972" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="detail2.jpg" crc="3801270721" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="in process1.jpg" crc="481643312" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="ezgifcom-optimize (1).gif" crc="3791914494" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="detail1.jpg" crc="252355577" seo="true" ref="clip">
+      <caption webpage="clip" alt=""/>
+    </file>
+    <file name="screen shot 2020-04-29 at 125038 pm.jpg" crc="4081080663" seo="true" ref="nests">
+      <caption webpage="nests" alt=""/>
+    </file>
+    <file name="luca flour1-crop-u15872.jpg" crc="3988746889" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="luca-crop-u15875.jpg" crc="285865829" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="enzo obj-crop-u15881.jpg" crc="4111183428" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="luca-enzo cura-crop-u15878.jpg" crc="3817329235" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="loft and flow154x94.jpg" crc="69120544" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="loft and flow152x93.jpg" crc="4120099669" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="pegs142x89.jpg" crc="465728776" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="img_6731138x138.jpg" crc="4002575532" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="luca flour1.jpg" crc="4292314375" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="istructure fits on ipad-u16184.png" crc="4197277513" ref="getting-mesh-process"/>
+    <file name="enzo_scan.jpg" crc="429548347" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="luca scancopy.jpg" crc="4128752047" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="scan screen1-crop-u16199.jpg" crc="355386708" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="enzo obj-crop-u16696.jpg" crc="63324234" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="luca.jpg" crc="221472713" seo="true" ref="getting-mesh-process:mold-making">
+      <caption webpage="getting-mesh-process" alt=""/>
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="luca-enzo.jpg" crc="3985801947" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="print1.jpg" crc="380787567" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="luca-enzo cura-crop-u16314.jpg" crc="4053347260" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="luca mesh check-crop-u16351.jpg" crc="4033323910" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="enzo mesh check-crop-u16331.jpg" crc="4136821665" seo="true" ref="getting-mesh-process">
+      <caption webpage="getting-mesh-process" alt=""/>
+    </file>
+    <file name="img_6757-crop-u17282.jpg" crc="4250850028" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="img_6735.jpg" crc="436475381" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="housing.jpg" crc="4113310033" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="img_6731-crop-u17506.jpg" crc="3961959791" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="img_6732.jpg" crc="4143412928" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="img_6733.jpg" crc="271085736" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="loft and flow.jpg" crc="475503899" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="img_6734.jpg" crc="3768438426" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="pegs.jpg" crc="122716648" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="img_6736-crop-u17401.jpg" crc="483254647" seo="true" ref="print-pics">
+      <caption webpage="print-pics" alt=""/>
+    </file>
+    <file name="print1355x279.jpg" crc="4283210748" seo="true" ref="print-pics">
+      <caption webpage="print-pics" alt=""/>
+    </file>
+    <file name="print2.jpg" crc="120845388" seo="true" ref="print-pics">
+      <caption webpage="print-pics" alt=""/>
+    </file>
+    <file name="print3.jpg" crc="87342891" seo="true" ref="print-pics">
+      <caption webpage="print-pics" alt=""/>
+    </file>
+    <file name="img_6740 copy.jpg" crc="3935097771" seo="true" ref="print-pics">
+      <caption webpage="print-pics" alt=""/>
+    </file>
+    <file name="top mold good-crop-u18733.jpg" crc="283618870" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="bottom mold good-crop-u18739.jpg" crc="4091902761" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-05-12 at 125022 pm-crop-u18736.jpg" crc="2838919" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="screen shot 2020-05-12 at 125047 pm-crop-u18742.jpg" crc="7888135" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="gem1 verticies-crop-u18730.jpg" crc="434550685" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="slots-crop-u17835.jpg" crc="274343911" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="stacked-crop-u17854.jpg" crc="4215437270" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="layout.jpg" crc="316624293" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="layout_detail.jpg" crc="320251911" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="curlin.jpg" crc="104211012" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="flareout.jpg" crc="3845147582" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="lamp!-crop-u18247.jpg" crc="3933030499" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="001creating surfaces.jpg" crc="519227479" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="002a polar array mishap.jpg" crc="462821154" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="002gem1 verticies.jpg" crc="4146402599" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="003final gem.jpg" crc="307484618" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="004positive test.jpg" crc="3837496993" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="005taper wall.jpg" crc="4179725768" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="006 resizing keys.jpg" crc="4275725881" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name=" 007boolean issue.jpg" crc="479996599" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="008 boolean fixed.jpg" crc="4050698213" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="009bottom mold good.jpg" crc="342825203" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="009top mold good.jpg" crc="299051534" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="housing2-crop-u17668.png" crc="4089519236" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="housing2-crop-u17675.png" crc="253862999" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="vestor shade inserts-crop-u19952.jpg" crc="4170846325" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="housing2-crop-u19778.png" crc="12924455" seo="true" ref="lamp">
+      <caption webpage="lamp" alt=""/>
+    </file>
+    <file name="003 pavillionmold print.jpg" crc="4135944389" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="001top and positive plug pla.jpg" crc="200600261" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="005 pour plug.jpg" crc="3947459337" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="002top mold pla with plug intalled.jpg" crc="417763482" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="006 casting the molds_setup.jpg" crc="246465485" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="008 weighing part a.jpg" crc="181986093" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="011molds setting.jpg" crc="4114452926" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="012a mold with string loops.jpg" crc="181029991" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="013mold casts 3 part.jpg" crc="88881336" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="013a unmolded top and bottom silicon.jpg" crc="4267072759" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="007 water displaced.jpg" crc="4098265623" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="009 weighing part b.jpg" crc="4124803860" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="011aunmolded silicon.jpg" crc="99993669" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="0013b casting plug.jpg" crc="171365104" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="sealed mold dark choc 1st cast.jpg" crc="4096660196" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="turkey hardening.jpg" crc="3948623301" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="turkey.jpg" crc="4014613367" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="plug removed_mallow floater_dark chocolate.jpg" crc="4217991595" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="mallow floater.jpg" crc="279337972" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="first dark chocolate cast02.jpg" crc="3851004313" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="marshmallow dark chocolate.jpg" crc="3845126573" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="dark chocolate cast 2.jpg" crc="4032677464" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="dark choc cast1.jpg" crc="4191230611" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="unmolded dark choco2.jpg" crc="3989029068" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="casting green gem bottom mold.jpg" crc="3899228895" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="too thin green gem cast.jpg" crc="280466043" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="plug mold green choco.jpg" crc="142095217" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="casting plug2.jpg" crc="4224533930" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="enzo.jpg" crc="3873832821" seo="true" ref="mold-making">
+      <caption webpage="mold-making" alt=""/>
+    </file>
+    <file name="plug1-crop-u21065.jpg" crc="4288767788" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="plug2-crop-u21067.jpg" crc="4031172592" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="insert_mold-crop-u21128.jpg" crc="419186909" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="unnamed copy-crop-u21333.jpg" crc="251305771" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="unnamed copy.jpg" crc="3878343241" seo="true" ref="proposal">
+      <caption webpage="proposal" alt=""/>
+    </file>
+    <file name="sheet1.jpg" crc="3966469655" seo="true" ref="proposal">
+      <caption webpage="proposal" alt=""/>
+    </file>
+    <file name="sheet2.jpg" crc="3897604304" seo="true" ref="proposal">
+      <caption webpage="proposal" alt=""/>
+    </file>
+    <file name="candy orange translucent.png" crc="4024113847" seo="true" ref="proposal">
+      <caption webpage="proposal" alt=""/>
+    </file>
+    <file name="2 color upper.jpg" crc="4111055122" seo="true" ref="proposal">
+      <caption webpage="proposal" alt=""/>
+    </file>
+    <file name="timeline252x157.jpg" crc="207359260" seo="true" ref="proposal">
+      <caption webpage="proposal" alt=""/>
+    </file>
+    <file name="drawings-u21963.png" crc="4077105716" ref="proposal"/>
+    <file name="timeline.jpg" crc="18062893" seo="true" ref="timeline-materials">
+      <caption webpage="timeline-materials" alt=""/>
+    </file>
+    <file name="purple backlit copy-crop-u23665.jpg" crc="65859889" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="making leaf2.jpg" crc="4057409548" seo="true" ref="final-design">
+      <caption webpage="final-design" alt=""/>
+    </file>
+    <file name="making leaf ai.png" crc="73677170" seo="true" ref="final-design">
+      <caption webpage="final-design" alt=""/>
+    </file>
+    <file name="making leaf 3.png" crc="4099976087" seo="true" ref="final-design">
+      <caption webpage="final-design" alt=""/>
+    </file>
+    <file name="leaf mold 2.png" crc="255520293" seo="true" ref="final-design">
+      <caption webpage="final-design" alt=""/>
+    </file>
+    <file name="master master mold.png" crc="4095982957" seo="true" ref="final-design">
+      <caption webpage="final-design" alt=""/>
+    </file>
+    <file name="final mold design.png" crc="98612333" seo="true" ref="final-design">
+      <caption webpage="final-design" alt=""/>
+    </file>
+    <file name="1st vs final copy.jpg" crc="473921665" seo="true" ref="final-casting">
+      <caption webpage="final-casting" alt=""/>
+    </file>
+    <file name="xtc mixing-mold prep.jpg" crc="375564909" seo="true" ref="final-casting">
+      <caption webpage="final-casting" alt=""/>
+    </file>
+    <file name="pla sanded molds.jpg" crc="3943808716" seo="true" ref="final-casting">
+      <caption webpage="final-casting" alt=""/>
+    </file>
+    <file name="hammer vibration.jpg" crc="3824152602" seo="true" ref="final-casting">
+      <caption webpage="final-casting" alt=""/>
+    </file>
+    <file name="vibrot table.gif" crc="453323628" seo="true" ref="final-casting">
+      <caption webpage="final-casting" alt=""/>
+    </file>
+    <file name="5 smooth molds silicon.jpg" crc="4020004952" seo="true" ref="final-casting">
+      <caption webpage="final-casting" alt=""/>
+    </file>
+    <file name="ice test with striations.jpg" crc="3930554265" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="leftover epoxy cast copy.jpg" crc="157573315" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="pasted image 431x592.jpg" crc="4139268064" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="acrylic cast with mold purple copy.jpg" crc="29629088" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="purple in mold polished copy.jpg" crc="193043682" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="orange backlit copy.jpg" crc="4013448460" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="purple backlit copy.jpg" crc="185437393" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="wirebender rendered.jpg" crc="4225687163" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="wirebender w wire.jpg" crc="41102214" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="sanding jig.jpg" crc="322728194" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="sanding jig2.jpg" crc="473862345" seo="true" ref="final-castings-and-extensions">
+      <caption webpage="final-castings-and-extensions" alt=""/>
+    </file>
+    <file name="pasted image 2057x1915-crop-u24333.jpg" crc="4081367710" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="black pla mold-crop-u24432.jpg" crc="455997486" seo="true" ref="zip-chips">
+      <caption webpage="zip-chips" alt=""/>
+    </file>
+    <file name="lidon-lidoff-crop-u24445.jpg" crc="434727799" seo="true" ref="zip-chips">
+      <caption webpage="zip-chips" alt=""/>
+    </file>
+    <file name="taking apart mold with clamp-crop-u24452.jpg" crc="3806436143" seo="true" ref="zip-chips">
+      <caption webpage="zip-chips" alt=""/>
+    </file>
+    <file name="pasted image 2864x2289-crop-u24494.jpg" crc="329436563" seo="true" ref="zip-chips">
+      <caption webpage="zip-chips" alt=""/>
+    </file>
+    <file name="top detail-crop-u24512.jpg" crc="4124766862" seo="true" ref="zip-chips">
+      <caption webpage="zip-chips" alt=""/>
+    </file>
+    <file name="zipchip test flight.gif" crc="4073584024" seo="true" ref="zip-chips">
+      <caption webpage="zip-chips" alt=""/>
+    </file>
+  </folder>
+  <file name="about.html" crc="97809420" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="projects.html" crc="3759492726" seo="true" mt="1591219594106" redirect="true"/>
+  <file name="contact.html" crc="282946218" seo="true" mt="1587431531920" redirect="true"/>
+  <file name="index.html" crc="238864239" seo="true" mt="1587572853078" redirect="true"/>
+  <file name="sewer-cookie-process.html" crc="83188626" seo="true" mt="1587573579558" redirect="true"/>
+  <file name="e-cookie-process.html" crc="4134125606" seo="true" mt="1590002363815" redirect="true"/>
+  <file name="george-process.html" crc="524614876" seo="true" mt="1587573566732" redirect="true"/>
+  <file name="experimental-tests.html" crc="146169150" seo="true" mt="1587573588685" redirect="true"/>
+  <file name="test-tubes.html" crc="4124408764" seo="true" mt="1587616887919" redirect="true"/>
+  <file name="test-cubes.html" crc="4006589592" seo="true" mt="1598119630262" redirect="true"/>
+  <file name="printer-build.html" crc="4239829988" seo="true" mt="1588145444517" redirect="true"/>
+  <file name="nests.html" crc="343636151" seo="true" mt="1588189910229" redirect="true"/>
+  <file name="clip.html" crc="4278336483" seo="true" mt="1588189691978" redirect="true"/>
+  <file name="getting-mesh-process.html" crc="438805340" seo="true" mt="1588713700780" redirect="true"/>
+  <file name="lamp.html" crc="224676374" seo="true" mt="1589403476107" redirect="true"/>
+  <file name="print-pics.html" crc="4018525052" seo="true" mt="1588714970654" redirect="true"/>
+  <file name="mold-making.html" crc="3827819392" seo="true" mt="1589821948494" redirect="true"/>
+  <file name="proposal.html" crc="3790628549" seo="true" mt="1590002286787" redirect="true"/>
+  <file name="timeline-materials.html" crc="3954910988" seo="true" mt="1590001377061" redirect="true"/>
+  <file name="final-design.html" crc="4132437371" seo="true" mt="1591119996616" redirect="true"/>
+  <file name="final-casting.html" crc="318286295" seo="true" mt="1591118258958" redirect="true"/>
+  <file name="final-castings-and-extensions.html" crc="3858000687" seo="true" mt="1591118069955" redirect="true"/>
+  <file name="zip-chips.html" crc="4215839484" seo="true" mt="1591220010857" redirect="true"/>
+</manifest>
